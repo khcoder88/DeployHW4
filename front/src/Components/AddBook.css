@@ -1,0 +1,18 @@
+#book-form {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+#book-form input,
+#book-form select,
+#book-form textarea {
+    margin: 0 1rem;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom: 10px;
+}
